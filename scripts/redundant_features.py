@@ -105,8 +105,6 @@ def main(
         finetune: bool = typer.Option(default=False, help="Whether to use Finetune or not."),
 ):
     model_name_to_max_dim = {
-        'v014.6': 768,
-        'v015.1': 256,
         'prithvi2_300': 1024,
         'prithvi2_600': 1280,
         'terramind_large': 1024,

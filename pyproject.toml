@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "slimcsmae"
-version = "0.1.0"
+name = "slimrsfms"
+version = "1.0.0"
 description = ""
 authors = ["leonard <l.hackel@tu-berlin.de>"]
 readme = "README.md"
